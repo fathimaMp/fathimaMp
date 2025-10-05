@@ -1,5 +1,4 @@
 
--->
 <h1 align="center">Hi 👋, I'm Fathima (C2)</h1>
 <h3 align="center">💻 Passionate Python & Django Developer from Kerala, India</h3>
 
