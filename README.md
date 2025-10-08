@@ -34,7 +34,7 @@
 🔹 **Take Care** – Medical e-commerce for sanitary & healthcare products  
 🔹 **Event Venue Management** – Booking & enquiry system with date availability checks  
 
----
+--- 
 
 ### 🏆 Achievements
 - 🪶 5 GitHub badges: YOLO, Quickdraw, Galaxy, Pair Extraordinaire, Pull Shark  
