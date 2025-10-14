@@ -35,7 +35,7 @@
 🔹 **Event Venue Management** – Booking & enquiry system with date availability checks  
 
 --- 
-
+ 
 ### 🏆 Achievements
 - 🪶 5 GitHub badges: YOLO, Quickdraw, Galaxy, Pair Extraordinaire, Pull Shark  
 - 💼 Created multiple full-stack projects with **Django backend & Tailwind frontend**
