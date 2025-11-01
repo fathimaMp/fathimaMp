@@ -27,7 +27,7 @@
 #### ⚙️ Frameworks & Tools
 `Django` `Git` `GitHub` `REST API` `Razorpay Integration`
 
----
+--- 
 
 ### 📂 Featured Projects
 🔹 **Agro Tech** – Smart agriculture management system using Django  
