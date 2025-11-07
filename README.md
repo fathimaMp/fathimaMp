@@ -14,7 +14,7 @@
 - 🧠 Self-taught in **C**, **Java**, **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**  
 - 💬 Ask me about **Django, APIs, and Backend Development**  
 - ⚡ Fun fact: *I love turning ideas into functional and beautiful web apps!*  
-
+ 
 ---
 
 ### 🧰 Tech Stack
