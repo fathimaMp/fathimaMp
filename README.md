@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack
 #### 💻 Languages
-`Python` `C` `Java` `JavaScript`'C++'
+`Python` `C` `Java` `JavaScript``C++`
 
 #### 🖥️ Web Technologies
 `HTML` `CSS` `Bootstrap` `Tailwind CSS`
