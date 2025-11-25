@@ -4,7 +4,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=FathimaMP&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p> 
-
+ 
 --- 
 
 ### 🚀 About Me
@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack
 #### 💻 Languages
-`Python` `C` `Java` `JavaScript`
+`Python` `C` `Java` `JavaScript`'C++'
 
 #### 🖥️ Web Technologies
 `HTML` `CSS` `Bootstrap` `Tailwind CSS`
