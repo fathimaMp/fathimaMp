@@ -6,7 +6,7 @@
 </p> 
  
 --- 
-
+ 
 ### 🚀 About Me
 - 🎓 Graduated in **BCA (2024)** from Kannur, Kerala  
 - 💡 Specializing in **Python Django Web Development**  
