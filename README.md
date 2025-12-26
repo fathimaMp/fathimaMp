@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathima (C2)</h1>
 <h3 align="center">💻 Passionate Python & Django Developer from Kerala, India</h3>
   
-<p align="center"> 
+<p align="center">  
   <img src="https://komarev.com/ghpvc/?username=FathimaMP&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p> 
  
