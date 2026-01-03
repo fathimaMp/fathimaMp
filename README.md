@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=FathimaMP&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p> 
  
---- 
+---  
  
 ### 🚀 About Me
 - 🎓 Graduated in **BCA (2024)** from Kannur, Kerala  
