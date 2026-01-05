@@ -8,9 +8,8 @@
 ---  
  
 ### 🚀 About Me
-- 🎓 Graduated in **BCA (2024)** from Kannur, Kerala  
-- 💡 Specializing in **Python Django Web Development**  
-- 🌱 Currently learning **REST APIs** and **Machine Learning**  
+- 💡 Specializing in **Python Django Web Development**
+-  
 - 🧠 Self-taught in **C**, **Java**, **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**  
 - 💬 Ask me about **Django, APIs, and Backend Development**  
 - ⚡ Fun fact: *I love turning ideas into functional and beautiful web apps!*  
@@ -19,13 +18,24 @@
 
 ### 🧰 Tech Stack
 #### 💻 Languages
-`Python` `C` `Java` `JavaScript``C++`
+`Python` 
+`C` 
+`Java`
+`JavaScript`
+`C++`
 
 #### 🖥️ Web Technologies
-`HTML` `CSS` `Bootstrap` `Tailwind CSS`
+`HTML` 
+`CSS` 
+`Bootstrap` 
+`Tailwind CSS`
 
 #### ⚙️ Frameworks & Tools
-`Django` `Git` `GitHub` `REST API` `Razorpay Integration`
+`Django` 
+`Git` 
+`GitHub` 
+`REST API`
+`Razorpay Integration`
 
 --- 
 
