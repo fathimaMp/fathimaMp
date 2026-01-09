@@ -8,9 +8,7 @@
 ---  
  
 ### 🚀 About Me
-- 💡 Specializing in **Python Django Web Development**
--  
-- 🧠 Self-taught in **C**, **Java**, **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**, and **JavaScript**  
+- 💡 Specializing in **Python Django Web Development** 
 - 💬 Ask me about **Django, APIs, and Backend Development**  
 - ⚡ Fun fact: *I love turning ideas into functional and beautiful web apps!*  
  
