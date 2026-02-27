@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=FathimaMP&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>     
  
----  
+---   
  
 ### 🚀 About Me
 - 💡 Specializing in **Python Django Web Development** 
