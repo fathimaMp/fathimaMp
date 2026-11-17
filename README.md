@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Fathima</h1> 
+<h1 align="center">Hi 👋, I'm Fathima</h1> 
 <h3 align="center">💻 Passionate Python & Django Developer from Kerala, India</h3> 
    
 <p align="center">  
@@ -16,6 +16,8 @@
 
 ### 🧰 Tech Stack 
 #### 💻 Languages
+'Flutter'
+'Dart'
 `Python` 
 `C` 
 `Java`
